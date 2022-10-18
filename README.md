@@ -18,7 +18,7 @@ Sou apaixonado por: </br>
   Animais: Pai de dogs :dog2: </br>
   Natureza: Ambientes naturais me agradam. Fazenda, cachoeiras, praias. Possuo criação de mudas de árvores do cerrado </br>
 
-<a href="https://www.linkedin.com/in/pedroadmoura/">Meu LinkedIn</a>
+<a href="https://www.linkedin.com/in/pedroadmoura/">Meu LinkedIn</a> </br>
 <a href="https://pedrohom16.github.io/">Meu Portfólio</a>
 
 <!--
