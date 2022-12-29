@@ -7,7 +7,7 @@ Encontrei na área de tecnologia uma oportunidade de poder fazer a diferença na
 Linguagem mais usada: JavaScript </br>
 Linguagens secundária: TypeScript e Phyton </br>
 Stacks Front End: HTML, CSS, React, Redux, Context API, React Hooks, Jest </br>
-Stacks Back End: Node.js, SQL, MySQL, ThunderClient, Mocha, Chai, Sinon, Express, Sequelize, MongoDB </br>
+Stacks Back End: Node.js, SQL, MySQL, PostgreSQL, ThunderClient, Mocha, Chai, Sinon, Express, Sequelize, MongoDB </br>
 
 Acredito fortemente na eficiência das metodologias ágeis (SCRUM e KANBAN) e no trabalho em equipe com transparência e clareza!
 
