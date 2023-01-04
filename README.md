@@ -1,7 +1,6 @@
 ### Olá! seja bem vindo 👋
 
-Sou um Desenvolvedor Web apaixonado por inovações! 
-Formado em Administração de Empresas, optei por transitar de carreira por ser muito motivado a resolver problemas de maneira clara e objetiva.
+Sou um Desenvolvedor Web formado em Administração de Empresas, optei por transitar de carreira por ser muito motivado a resolver problemas de maneira clara e objetiva.
 Encontrei na área de tecnologia uma oportunidade de poder fazer a diferença na vida das pessoas e qualquer projeto que envolva benefícios aos usuários me encanta. A cada dia um novo aprendizado, um novo poder! :point_right::star2:
 
 Linguagem mais usada: JavaScript </br>
@@ -14,9 +13,9 @@ Acredito fortemente na eficiência das metodologias ágeis (SCRUM e KANBAN) e no
 Sou apaixonado por: </br>
   Games: em especial estratégias e RPGs em geral, jogos de tabuleiros, cartas (Canastra :heart:) e revistas de raciocínio lógico (Desafios do Albert Einsten :laughing:). </br>
   Esportes: Basquete, Futebol(só na televisão), Beach Tennis, Peteca. </br>
-  Música: Rock'n roll, MPB, Samba, Jazz e música erudita. Sou músico, violonista com formação incompleta (Um dia termino, quem sabe...) </br>
-  Animais: Pai de dogs :dog2: </br>
-  Natureza: Ambientes naturais me agradam. Fazenda, cachoeiras, praias. Possuo criação de mudas de árvores do cerrado </br>
+  Música: Rock'n roll, MPB, Samba, Jazz e música erudita. </br>
+  Animais </br>
+  Natureza: Fazenda, cachoeiras e praias. </br>
 
 <a href="https://www.linkedin.com/in/pedroadmoura/">Meu LinkedIn</a> </br>
 <a href="https://pedrohom16.github.io/">Meu Portfólio</a>
