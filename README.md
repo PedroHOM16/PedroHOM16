@@ -11,11 +11,11 @@ Stacks Back End: Node.js, SQL, MySQL, PostgreSQL, ThunderClient, Mocha, Chai, Si
 Acredito fortemente na eficiência das metodologias ágeis (SCRUM e KANBAN) e no trabalho em equipe com transparência e clareza!
 
 Sou apaixonado por: </br>
-  Games: em especial estratégias e RPGs em geral, jogos de tabuleiros, cartas (Canastra :heart:) e revistas de raciocínio lógico (Desafios do Albert Einsten :laughing:). </br>
-  Esportes: Basquete, Futebol(só na televisão), Beach Tennis, Peteca. </br>
+  Games </br>
+  Esportes </br>
   Música: Rock'n roll, MPB, Samba, Jazz e música erudita. </br>
   Animais </br>
-  Natureza: Fazenda, cachoeiras e praias. </br>
+  Natureza </br>
 
 <a href="https://www.linkedin.com/in/pedroadmoura/">Meu LinkedIn</a> </br>
 <a href="https://pedrohom16.github.io/">Meu Portfólio</a>
